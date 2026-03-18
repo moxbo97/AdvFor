@@ -19,7 +19,13 @@ After your local dependencies are set the same as us, then you can run this comm
 
  'models'-  The code files of OSN model.
 
-'weights'-  The well-trained OSN model.
+ 'weights'-  The well-trained OSN model.
+
+Please download the files above from Baidu Netdisk:
+
+Shared file via Baidu Netdisk: AdvFor_Model
+Link: https://pan.baidu.com/s/1bpZ3ivcdyjKpFD15iXUcOA?pwd=1024
+Extraction code: 1024
 
 
  The commands for training and testing are:
